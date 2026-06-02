@@ -1,4 +1,4 @@
-# 
+# 原生 JetBrains Rider 主题 Mac OS版 | 独家 JetBrains Rider 主题 PC Windows版。集成 镜像扫描 和 SQL调试，跨平台性能最大化。
 
 
 
